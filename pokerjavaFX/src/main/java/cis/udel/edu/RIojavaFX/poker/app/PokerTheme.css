@@ -1,0 +1,14 @@
+.background {
+    -fx-background-color: #32CD32;
+}
+
+.label {
+    -fx-font-size: 20pt;
+    -fx-text-fill: white;
+}
+
+.label-header {
+    -fx-font-size: 32pt;
+    -fx-text-fill: white;
+}
+
